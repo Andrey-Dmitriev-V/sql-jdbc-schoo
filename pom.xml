@@ -17,7 +17,7 @@
         <maven-surefire-plugin.version>3.0.0-M5</maven-surefire-plugin.version>
         <maven-compiler-plugin.version>3.8.0</maven-compiler-plugin.version>
         <junit.version>5.8.1</junit.version>
-        <postgresql.version>42.3.1</postgresql.version>
+        <postgresql.version>42.3.3</postgresql.version>
         <testcontainers.version>1.16.2</testcontainers.version>
         <HikariCP.version>4.0.3</HikariCP.version>
     </properties>
